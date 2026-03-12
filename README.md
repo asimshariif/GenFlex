@@ -542,7 +542,7 @@ Developed as part of an AI-driven educational technology project.
 
 For questions, suggestions, or collaboration opportunities:
 
-**Create an issue in the repository or submit a pull request.**
+asimsharif603@gmail.com
 
 ---
 
